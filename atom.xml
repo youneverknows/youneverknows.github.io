@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-21T02:17:27.188Z</updated>
+  <updated>2019-05-12T05:35:08.907Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/04/21/create-site-1/"/>
     <id>http://yoursite.com/2019/04/21/create-site-1/</id>
     <published>2019-04-21T02:11:51.666Z</published>
-    <updated>2019-04-21T02:17:27.188Z</updated>
+    <updated>2019-05-12T05:35:08.907Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎大家来到我的博客，博客已初步搭建好，现在整理一个建站历程给大家，主要是参考官方文档和snippet主题文档。</p><h1 id="HEXO-建站历程"><a href="#HEXO-建站历程" class="headerlink" title="HEXO 建站历程"></a>HEXO 建站历程</h1><h2 id="第一步：搭建环境"><a href="#第一步：搭建环境" class="headerlink" title="第一步：搭建环境"></a>第一步：搭建环境</h2><p>内容待丰富，各位老哥见谅！！！</p><h5 id="参考文档："><a href="#参考文档：" class="headerlink" title="参考文档："></a>参考文档：</h5><p>hexo官方文档：<a href="https://hexo.io/zh-cn/docs/setup" target="_blank" rel="noopener">https://hexo.io/zh-cn/docs/setup</a></p><p>主题模板：<a href="https://github.com/shenliyang/hexo-theme-snippet" target="_blank" rel="noopener">https://github.com/shenliyang/hexo-theme-snippet</a></p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎大家来到我的博客，博客已初步搭建好，现在整理一个建站历程给大家，主要是参考官方文档和snippet主题文档。</p><h1 id="HEXO-建站历程"><a href="#HEXO-建站历程" class="headerlink" title="HEXO 建站历程"></a>HEXO 建站历程</h1><h2 id="第一步：搭建环境"><a href="#第一步：搭建环境" class="headerlink" title="第一步：搭建环境"></a>第一步：搭建环境</h2><p>内容待丰富，各位老哥见谅！</p><h5 id="参考文档："><a href="#参考文档：" class="headerlink" title="参考文档："></a>参考文档：</h5><p>hexo官方文档：<a href="https://hexo.io/zh-cn/docs/setup" target="_blank" rel="noopener">https://hexo.io/zh-cn/docs/setup</a></p><p>主题模板：<a href="https://github.com/shenliyang/hexo-theme-snippet" target="_blank" rel="noopener">https://github.com/shenliyang/hexo-theme-snippet</a></p>]]></content>
     
     <summary type="html">
     
